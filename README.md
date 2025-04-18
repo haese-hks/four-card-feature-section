@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Github Pages](https://haese-hks.github.io/product-preview-card-component/)
+- Live Site URL: [Github Pages](https://haese-hks.github.io/four-card-feature-section/)
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-and-media-query-TL8IZjd3O4)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-four-card-feature-using-css-grid---vanilla-css-S_gzqG9vTa)
 
 ### My Process
 

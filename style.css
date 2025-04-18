@@ -182,6 +182,10 @@ footer {
     padding-top: 2rem;
   }
 
+  .title {
+    font-size: 2rem;
+  }
+
   .description {
     padding: 0 8rem;
   }
@@ -227,6 +231,10 @@ footer {
     max-width: 64em;
   }
 
+  .title {
+    font-size: 2.3rem;
+  }
+
   .description {
     padding: 0 16rem;
   }
@@ -236,6 +244,10 @@ footer {
   main {
     max-width: 90em;
     padding: 0 5rem;
+  }
+
+  .title {
+    font-size: 2.5rem;
   }
 
   .description {
