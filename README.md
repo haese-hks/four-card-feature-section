@@ -4,6 +4,18 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Table of contents
 
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
 ### Overview
 
 This project is part of the Frontend Mentor challenge, which aims to create a responsive Four Card Feature Section. In this challenge, you will create a layout with four cards that display an image, title, and a short description of the feature or service offered. These cards must be able to adapt to different screen sizes (responsive), and have an interactive effect when hovered by the user.
@@ -68,19 +80,19 @@ next i will improve the ::before and ::after psuedo because this is very importa
 
 ### Useful Resources
 
-- [freeCodeCamp](https://www.freecodecamp.org/): The platform I used to learn HTML, CSS, and JavaScript in depth, including lessons on forms, layouts, and responsiveness.
+- [freeCodeCamp](https://www.freecodecamp.org/):
+  
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  
+- [W3Schools - CSS](https://www.w3schools.com/css/)
 
-- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): My main resource for learning about CSS properties and techniques, especially Flexbox and Media Queries.
+- [Frontend Mentor - Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ryaPa2l8M)
 
-- [W3Schools - CSS](https://www.w3schools.com/css/): A handy reference for quick examples and documentation on CSS usage.
+- [Google Fonts](https://fonts.google.com/)
 
-- [Frontend Mentor - Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ryaPa2l8M): The main challenge page that provided the design and requirements for this project.
+- [CSS-Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/)
 
-- [Google Fonts](https://fonts.google.com/): I used Google Fonts to find and implement the `Figtree` font for this project.
-
-- [CSS-Tricks - Transform](https://css-tricks.com/almanac/properties/t/transform/): A great resource for understanding how to use the `transform` property, including `scale()` for the hover effect.
-
-- [GitHub Pages Documentation](https://docs.github.com/en/pages): The guide I used to deploy this project on GitHub Pages and make it publicly accessible online.
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
 
 ### Author
 
